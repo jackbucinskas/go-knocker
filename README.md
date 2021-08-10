@@ -1,2 +1,2 @@
 # go-knocker
-go port knocker
+golang port knocker
